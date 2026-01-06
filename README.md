@@ -4,4 +4,6 @@ Our approach includes the data-preprocessing and classification parts. L1-L5 den
 
 This repo includes the code for perfusion threshold optimization. Lobe segmentation can be done manually or using existing softwares. Mass change values are computed by summing HU-density values between corresponding inhale/exhale lobes. 
 
+This implementation is released under the MIT License.
+
 <img width="844" height="819" alt="overview" src="https://github.com/user-attachments/assets/3de3c2ec-6529-4eb2-9ba9-a010ac10817d" />
